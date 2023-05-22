@@ -1,0 +1,12 @@
+{
+    "name": "Image-MultiResizer",
+    "version": "1.0.0",
+    "description": "Lambda function to resize an image to multiple sizes efficiently",
+    "main": "index.js",
+    "author": "Antsstyle",
+    "license": "MIT",
+    "dependencies": {
+        "sharp": "^0.30.7"
+    },
+    "private": "true"
+}
